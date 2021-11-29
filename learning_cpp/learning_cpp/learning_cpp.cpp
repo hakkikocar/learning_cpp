@@ -6,13 +6,13 @@ using namespace std;
 
 int main()
 {
-	/*int sayi = 6;
-	int sayi2 = 7;
-	int sonuc ;
+	//int sayi = 6;
+	//int sayi2 = 7;
+	//int sonuc ;
 
-	sonuc = sayi + sayi2;
+	//sonuc = sayi + sayi2;
 
-	cout << sonuc ;*/
+	//cout << sonuc ;
 
 	// boolean
 	 //   bool boolean1 = 1; 1 //1 yazmakla true yazmak ve 0 yazmakla false yazmak arasında fark yok
@@ -69,6 +69,41 @@ int main()
 	//}
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	
+	//SWİTCH CASE 
+
+	//int a = 5;
+
+	//switch (a) //parantez içinde üzerinde çalışılacak değişken girilir
+	//{
+	//case 3:  // verilen değer 3 ise olarak ayarlanır
+	//	cout << "sayi 3dur " << endl; //bu case'e girerse yapaccağı işlem
+	//	break;//koyulmaması durumunda eğer kullanılan bir case ise sonrasındaki caseleri de bu case içinde sayarak hepsini çalıştırır 
+
+	//case 5:
+	//	cout << "sayi 5dir " << endl;
+	//	break;
+	//}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	//FOR DÖNGÜSÜ
+
+	//int ari = 10;
+	//char ari[] = "merhaba";// her bir harf bir karakter olarak algılanır
+
+
+	//for ( int i = 0; i <=6; i++) // ortadali "i<ari" kısmı i sayısı aridan küçük olduğun sürece devam etsin demek oluyor 
+	//{
+	//	cout << ari[i] << endl;
+	//	cout << i << endl;
+	//}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
 
 
 
