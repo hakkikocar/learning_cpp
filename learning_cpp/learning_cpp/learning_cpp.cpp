@@ -6,19 +6,21 @@ using namespace std;
 
 int main()
 {
-	//int sayi = 6;
-	//int sayi2 = 7;
-	//int sonuc ;
-
-	//sonuc = sayi + sayi2;
-
-	//cout << sonuc ;
-
-	// boolean
-	 //   bool boolean1 = 1; 1 //1 yazmakla true yazmak ve 0 yazmakla false yazmak arasında fark yok
-		//bool boolean2 = 0; 0
-		//bool boolean3 = true; 1
-		//bool boolean4 = false; 0
+//	 //BAŞLANGIÇ
+//
+//	int sayi = 6;
+//	int sayi2 = 7;
+//	int sonuc ;
+//
+//	sonuc = sayi + sayi2;
+//
+//	cout << sonuc ;
+//
+//	// boolean
+//	    bool boolean1 = 1;// 1 1 yazmakla true yazmak ve 0 yazmakla false yazmak arasında fark yok
+//		bool boolean2 = 0; //0
+//		bool boolean3 = true; //1
+//		bool boolean4 = false;// 0
 
 
 
@@ -101,9 +103,20 @@ int main()
 	//	cout << i << endl;
 	//}
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	
+	//WHİLE
+
+	//int a = 50;
+	//int i = 0;
 
 
+	//while (i<a)  //parantez içi true mi değil mi bunun sorgusunu yapar
+	//{
+	//	cout << i << endl;   // her döngüdeki i değerini konsala yazdıracak 
+	//	i = i + 5;   // i değerini 5 artdıracak ve koşul false olana kadar bu devam edecek
+	//}
 
 
 
