@@ -4,26 +4,29 @@ using namespace std;
 
 
 
-//class ogrenci
-//{
-//public:
-//	static int yas;
-//
-//	ogrenci () {
-//		yas++;
-//	}
-//};
-//int ogrenci::yas;
-//
-//
+class silah
+{
+public:
+	string ad;
+	int menzil;
+	int mermi;
+};
+
+void glock()
+{
+	silah glock;
+	glock.ad = "glock";
+	glock.menzil = 100;
+	glock.mermi = 15;
+}
+
+
+
 int main()
 {
-cout << "hello warld"<<endl;
-//	ogrenci ali;
-//	ogrenci veli;
-//	ogrenci kırk;
-//	ogrenci elli;
-//	cout << ogrenci::yas;
+
+	
+
 //	 //BAŞLANGIÇ
 //
 //	int sayi = 6;
