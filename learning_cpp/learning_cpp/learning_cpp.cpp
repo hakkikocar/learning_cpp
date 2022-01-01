@@ -1,11 +1,29 @@
 ﻿#include <iostream>
+
 using namespace std;
 
 
 
-
+//class ogrenci
+//{
+//public:
+//	static int yas;
+//
+//	ogrenci () {
+//		yas++;
+//	}
+//};
+//int ogrenci::yas;
+//
+//
 int main()
 {
+cout << "hello warld"<<endl;
+//	ogrenci ali;
+//	ogrenci veli;
+//	ogrenci kırk;
+//	ogrenci elli;
+//	cout << ogrenci::yas;
 //	 //BAŞLANGIÇ
 //
 //	int sayi = 6;
@@ -26,6 +44,9 @@ int main()
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+	// * İŞARETİ DEĞERE GİTME
+	// & İŞARETİ BELLEK ADRESİNE GİTME
+
 	////pointer (referanslama)
 	//int sayi1 = 10;
 	//int *sayi1Ptr; //pointerı bir değişken tanımlarken değişkenin türünün yanına ya da değişkenin yanına * işareti koyulur. eğer koyulmazsa hata verir.
@@ -39,8 +60,8 @@ int main()
 	//cout << "sayi1Ptr ramdeki konumu" << "  " << &sayi1Ptr << endl;//sayi1Ptr ramdeki yeri
 	//cout << "sayiPtr ile sayi1 degerine ulasma" << "  " << *sayi1Ptr << endl; //sayi1 değerini pointer ile sayi1Ptr ile alma 
 
-	// * işareti değere gitme
-	// & bellek adresine gitme
+	// * İŞARETİ DEĞERE GİTME
+	// & İŞARETİ BELLEK ADRESİNE GİTME
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	//DEnklikler
@@ -55,7 +76,7 @@ int main()
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-	//İF KULLANIMI
+	//IF KULLANIMI
 
 	//int ifi = 4;
 
@@ -73,7 +94,7 @@ int main()
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	
 	
-	//SWİTCH CASE 
+	//SWITCH CASE 
 
 	//int a = 5;
 
@@ -106,7 +127,7 @@ int main()
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	
 	
-	//WHİLE
+	//WHILE
 
 	//int a = 50;
 	//int i = 0;
@@ -116,7 +137,9 @@ int main()
 	//{
 	//	cout << i << endl;   // her döngüdeki i değerini konsala yazdıracak 
 	//	i = i + 5;   // i değerini 5 artdıracak ve koşul false olana kadar bu devam edecek
-	//}
+	//} Şu anda Buradasınız [*]
+
+	
 
 
 
